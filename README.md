@@ -9,5 +9,3 @@ Tags: challenging text-classification, short unstructured and tangled texts, cla
 output removed due to sensitive data.
 
 USE Paper: Daniel Cer, Yinfei Yang, Sheng-yi Kong, Nan Hua, Nicole Limtiaco, Rhomni St. John, Noah Constant, Mario Guajardo-Céspedes, Steve Yuan, Chris Tar, Yun-Hsuan Sung, Brian Strope, Ray Kurzweil. Universal Sentence Encoder. arXiv:1803.11175, 2018.
-
-USE on TF-HUB: https://tfhub.dev/google/universal-sentence-encoder/4
